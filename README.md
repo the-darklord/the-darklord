@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_dark_lord_n" target="blank"><img src="https://img.shields.io/twitter/follow/the_dark_lord_n?logo=twitter&style=for-the-badge" alt="the_dark_lord_n" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development , JAVA , Verilog , Linux**
+- 🌱 I’m currently learning **JAVA , Verilog , Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/the-darklord](https://github.com/the-darklord)
 
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-darklord&show_icons=true&locale=en" alt="the-darklord" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-darklord&" alt="the-darklord" /></p>
-
