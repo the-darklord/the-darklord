@@ -15,6 +15,22 @@
 
 - ⚡ Fun fact **QWERTY keyboard was designed to slow down the typing speed.**
 
+<div>
+  <h2 align="center"> 📊 Github stats </h2>
+    <br/>
+      <p align="center">
+        <a href="https://github.com/the-darklord/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-darklord&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="the-darklord :: Top Langs" /></a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/the-darklord/">
+        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=the-darklord&show_icons=true&theme=gruvbox&hide_border=true" />
+        <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=the-darklord&theme=gruvbox&hide_border=true" />
+        </a>
+     </p>
+   <br>
+</div>    
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/the_dark_lord_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_dark_lord_n" height="30" width="40" /></a>
