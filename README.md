@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **QWERTY keyboard was designed to slow down the typing speed.**
 
+<div align="center">
+  <a href="https://github.com/ranguy9304">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <div>
   <h2 align="center"> 📊 Github stats </h2>
     <br/>
