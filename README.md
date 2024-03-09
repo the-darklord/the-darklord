@@ -7,19 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/the_dark_lord_n" target="blank"><img src="https://img.shields.io/twitter/follow/the_dark_lord_n?logo=twitter&style=for-the-badge" alt="the_dark_lord_n" /></a> </p>
 
-- 🌱 I’m currently learning **Operating Systems , Computer Networks , Compiler Design**
+- 🌱 I’m currently learning **Distributed Systems, Parallel Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/the-darklord](https://github.com/the-darklord)
 
 - 📫 How to reach me **saimihirnath.nayakanti1@gmail.com**
 
 - ⚡ Fun fact **QWERTY keyboard was designed to slow down the typing speed.**
-
-<div align="center">
-  <a href="https://github.com/the-darklord">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <div>
   <h2 align="center"> 📊 Github stats </h2>
